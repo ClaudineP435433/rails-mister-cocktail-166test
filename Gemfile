@@ -22,6 +22,7 @@ gem 'webpacker'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'cloudinary'
+gem 'carrierwave', '~> 1.2'
 gem 'dotenv-rails', groups: [:development, :test]
 
 # Use CoffeeScript for .coffee assets and views
