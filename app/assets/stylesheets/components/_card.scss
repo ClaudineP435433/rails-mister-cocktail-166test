@@ -27,3 +27,9 @@
 .card-link:hover {
   opacity: 0.1;
 }
+.card-delete {
+  position: absolute;
+  bottom: 10px;
+  right: -10px;
+  z-index: 10;
+}
